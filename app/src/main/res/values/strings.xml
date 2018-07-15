@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SocialNetworkApi</string>
+    <string name="facebook_app_id">2125538987687132</string>
+    <string name="fb_login_protocol_scheme">fb2125538987687132</string>
+
+    <string name="title_activity_maps">Map</string>
+</resources>
